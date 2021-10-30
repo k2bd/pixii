@@ -1,0 +1,1 @@
+[![CI](https://github.com/k2bd/pixii/actions/workflows/ci.yml/badge.svg)](https://github.com/k2bd/pixii/actions/workflows/ci.yml) [![GitHub license](https://img.shields.io/github/license/k2bd/pixii)](https://github.com/k2bd/pixii/blob/main/LICENSE)
